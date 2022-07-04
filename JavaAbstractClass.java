@@ -14,6 +14,6 @@ public class JavaAbstractClass
       else {
     	  System.out.println("not a leap year");
       }
-      
+       System.out.println("its video");
    }
 }
