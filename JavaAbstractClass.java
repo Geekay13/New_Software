@@ -5,14 +5,14 @@ public class JavaAbstractClass
    {
       int year =1701;
       if (year % 400==0) {
-    	  System.out.println("leap year");
+    	  System.out.println("its leap year");
       }
       else if(year % 4==0){
-    	  System.out.println("leap year");
+    	  System.out.println("its leap year");
       }
      
       else {
-    	  System.out.println("not leap year");
+    	  System.out.println("not a leap year");
       }
       
    }
